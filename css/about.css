@@ -357,7 +357,7 @@ gap: 20px 0;
   .card .img {
     width: 10.8em;
     height: 10.8em;
-background: url(./img/Photo_1742876923000.png) no-repeat;
+background: url(/img/Photo_1742876923000.png) no-repeat;
 background-position: center;
 background-size: contain;
     border-radius: 15px;
